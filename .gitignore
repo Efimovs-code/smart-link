@@ -1,3 +1,4 @@
 app/
 *.scss
 prepros.config
+package.json
